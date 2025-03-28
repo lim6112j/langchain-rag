@@ -9,7 +9,7 @@ ANTHROPIC_API_KEY=
 OPENAI_API_KEY=
 
 ```
-
+add excel file named 'red.xlsx' to project root folder
 
 ```
 source .venv/bin/activate
