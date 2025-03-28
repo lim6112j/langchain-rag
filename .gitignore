@@ -1,3 +1,6 @@
 .venv/
 .env
 output.png
+.DS_Store
+data.json
+red.xlsx
